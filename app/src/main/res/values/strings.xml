@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BottomNavBar</string>
+
+
+    <string name="settings">Configuración</string>
+    <string name="home">Inicio</string>
+    <string name="about">Acerca de</string>
+    <string name="sign_out">Cerrar sesión</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment HOME</string>
+</resources>
